@@ -21,3 +21,4 @@ Filesystem event notification library on steroids.
 - [github.com/syncthing/syncthing](https://github.com/syncthing/syncthing)
 - [github.com/OrlovEvgeny/TinyJPG](https://github.com/OrlovEvgeny/TinyJPG)
 - [github.com/mitranim/gow](https://github.com/mitranim/gow)
+- [github.com/GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
